@@ -1,4 +1,4 @@
-This file contains all the meta information regarding the columns described in the CSV files. we have provided 6 CSV files:
+This file contains all the meta information regarding the columns described in the CSV files. There are 6 CSV files:
 1. dim_cities
 2. dim_date
 3. dim_plan
