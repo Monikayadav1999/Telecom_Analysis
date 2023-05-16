@@ -1,6 +1,8 @@
 # Telecom_Analysis
 The Source for this data was used from this link: https://codebasics.io/challenge/codebasics-resume-project-challenge
 
+PowerBI Dashboard link: https://www.novypro.com/project/atliqo-telecom-analysis-2
+
 # Provide Insights to the Executive Team in the Telecom Domain
 
 AtliQo (imaginary company) is one of the leading telecom providers in India and launched its 5G plans in May 2022 along with other telecom providers.
